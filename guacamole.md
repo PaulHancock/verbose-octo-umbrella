@@ -4,3 +4,4 @@
 - salt
 # Instructions
 - peel the avocados
+- put the avocados into a bowl
